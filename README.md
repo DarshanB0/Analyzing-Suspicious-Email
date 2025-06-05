@@ -2,7 +2,7 @@
 
 ## Task Objective
 
-The goal of this task was to **analyze a suspicious email** using a **public email header analyzer** (MXToolbox) to:
+The goal of this task was to **analyze a suspicious email** using a **public email header analyzer** to:
 - Understand the structure of an email header
 - Identify signs of spam or phishing
 - Check if the email was spoofed or forged
